@@ -1,14 +1,14 @@
 prod:
-  frontend_base_url:  http://by-examples.localhost
-  backend_base_url:   http://admin.by-examples.localhost
+  frontend_base_url:  http://byexample_clone.pl.localhost
+  backend_base_url:   http://admin.byexample_clone.pl.localhost
 
 staging:
-  frontend_base_url:  http://by-examples.localhost
-  backend_base_url:   http://admin.by-examples.localhost
+  frontend_base_url:  http://byexample_clone.pl.localhost
+  backend_base_url:   http://admin.byexample_clone.pl.localhost
 
 dev:
-  frontend_base_url:  http://by-examples.localhost
-  backend_base_url:   http://admin.by-examples.localhost
+  frontend_base_url:  http://byexample_clone.pl.localhost
+  backend_base_url:   http://admin.byexample_clone.pl.localhost
 
 
 
